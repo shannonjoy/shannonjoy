@@ -2,11 +2,11 @@
 
 **0→1 Product Leader — Build to Revenue** · Jefferson City, MO · [shannonowens.com](https://shannonowens.com) · [LinkedIn](https://www.linkedin.com/in/shannonjoyceowens)
 
-I take products from nothing to revenue — and these days I build them myself.
+I take products from nothing to revenue — and these days I build them.
 
 **At scale:** built a digital rental channel across 385 branches from $0 to $1M/month through IPO, and shipped a computer vision pipeline (Amazon Rekognition Custom Labels, 1–2M equipment images) into production.
 
-**On my own:** since July 2026 I've launched six products with Claude Code — and shelved two others on purpose when the evidence said stop. Same discipline either way: a clear bet, a gate, a number, a decision.
+**On my own:** since July 2026 I've launched six products with Claude Code
 
 ## Live products
 
